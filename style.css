@@ -10,3 +10,7 @@ License URI: http://opensource.org/licenses/MIT
 Tags: one-column, two-column, full-width-template, custom menu
 Text Domain: starter-theme
 */
+
+body {
+    background: #f2f2f2;
+}
